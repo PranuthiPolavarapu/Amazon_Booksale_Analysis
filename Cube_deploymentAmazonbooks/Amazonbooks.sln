@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Amazonbooks", "Amazonbooks.dwproj", "{3636BAA5-891F-4AEA-A2DF-9B3A08733C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3636BAA5-891F-4AEA-A2DF-9B3A08733C47}.Development|Default.ActiveCfg = Development
+		{3636BAA5-891F-4AEA-A2DF-9B3A08733C47}.Development|Default.Build.0 = Development
+		{3636BAA5-891F-4AEA-A2DF-9B3A08733C47}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8618E6C2-81C8-4284-818B-147741BB9443}
+	EndGlobalSection
+EndGlobal
